@@ -1,0 +1,8 @@
+For Deploying Python:
+i)Use the requirements.txt file.it has required version og python libraries to be used
+ii)You a run the python file directly from command prompt after modifying the Training data set path .
+iii)Submission data will be created in the directory chosed.
+
+For R Deployment:
+i)Modifying the Training data set directory path and run the R file.
+ii)Submission data will be created in the directory chosed.
